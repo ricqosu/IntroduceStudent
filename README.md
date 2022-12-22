@@ -30,4 +30,4 @@ The users can provide the following to create a custom introduction alert with a
 
 - [ ] 1. User can tap a button to change the color of the background view
 - [ ] 3. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
-- [x] 4. Any stylistic changes that are not default options <!--- I added placeholder text for the textbox where the user can enter the first, last, and school name. I also added a background color to the "Introduce Student" button. -->
+- [x] 4. Any stylistic changes that are not default options <!--- I added placeholder text for the textbox where the user can enter the first, last, and school name. I bolded the labels for "First", "Last", "School", "Pets", and "More Pets?". I also added a background color to the "Introduce Student" button. -->
